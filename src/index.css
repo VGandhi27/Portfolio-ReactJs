@@ -19,22 +19,25 @@ a{
 ul{
 list-style-type: none;
 }
-.btn{
+.btn {
   padding: 12px 32px;
   font-size: 1rem;
   text-transform: uppercase;
-  background: rgb(248,217,15) ;
-  color:#222;
+  background: rgb(248, 217, 15);
+  color: #222;
+  border: 1px solid #fff;
   font-weight: 600;
-  cursor:pointer;
+  cursor: pointer;
 }
+
 .btn-light {
-  /* background-color: rgba(255,255,255,0.2); */
-  background:transparent;
+  /* background: rgba(255, 255, 255, 0.2); */
+  background: transparent;
   color: #fff;
-  transition:0.3s
 }
-.btn:hover(){
-  background-color: rgba(255,255,255,0.2);
+
+.btn:hover {
+  background: rgba(255, 255, 255, 0.2);
   color: #fff;
-  transition:0.3s}
+  transition: 0.3s;
+}
