@@ -9,9 +9,9 @@ const Heroimg = () => {
   return (
     <div className="hero">
        <div className="mask">
-        <center>
+        {/* <center> */}
         <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"   className="into-img" />
-        </center>
+        {/* </center> */}
       {/* <img src={Into} alt="IntoImg" className="into-img" />  */}
         </div>
        <div className="content">
