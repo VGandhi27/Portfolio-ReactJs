@@ -1,8 +1,8 @@
-import "./WorkCardStyle.css"
+import "./BlogCardStyle.css"
 import React ,{props} from 'react'
 import { NavLink } from "react-router-dom"
 
-const WorkCard = (props) => {
+const BlogCard = (props) => {
   return (
     <div className="project-card">
                <img src={props.imgsrc} alt="image" />
@@ -22,4 +22,4 @@ const WorkCard = (props) => {
   )
 }
 
-export default WorkCard
+export default BlogCard

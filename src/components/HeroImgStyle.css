@@ -53,6 +53,34 @@
 
 }
 
+Link{
+    max-width: fit-content;
+}
+
+.btn {
+    padding: 12px 32px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    background: rgb(248, 217, 15);
+    color: #222;
+    border: 1px solid #fff;
+    font-weight: 600;
+    cursor: pointer;
+  }
+  
+  .btn-light {
+    /* background: rgba(255, 255, 255, 0.2); */
+    background: transparent;
+    color: #fff;
+  }
+  
+  .btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    transition: 0.3s;
+  }
+  
+
 @media screen and (max-width:640px){
     
     .into-img{

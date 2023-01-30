@@ -7,7 +7,7 @@ const Footer = () => {
     <div className='footer'>
      <div className="footer-container">
         <div className="left">
-        <h3>
+        <h3 style={{color:"#fff"}}>
             Have a Question?
         </h3>
             <div className="location">
@@ -34,7 +34,7 @@ const Footer = () => {
         </div>
         
         <div className="right">
-        <h3>
+        <h3 style={{color:"#fff"}}>
             Reach me out here
         </h3>
         <p>Feel free to ping me for volunteering, discussing your ideas or grabbing a cup of coffee.</p>
@@ -51,7 +51,7 @@ const Footer = () => {
         </div>
         
      </div>
-     <center>
+     <center style={{color:"#fff"}}>
             Made with <FaHeart size={30} style={{color:'red',margin:'0rem'}}/> Vidushi Gandhi
         </center>
     </div>
