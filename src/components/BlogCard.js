@@ -14,8 +14,8 @@ const BlogCard = (props) => {
                   <div className="pro-btns">
                     <NavLink to={props.view} className="btn">
                       View</NavLink>
-                      <NavLink to={props.source} className="btn">
-                      Source</NavLink>
+                      {/* <NavLink to={props.source} className="btn">
+                      Source</NavLink> */}
                   </div>
                 </div>
             </div>

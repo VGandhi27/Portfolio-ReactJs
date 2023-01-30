@@ -3,9 +3,11 @@ import { BrowserRouter, Route, Routes} from "react-router-dom";
 import Home from "./routes/Home"
 import About from "./routes/About"
 import Blog from "./routes/Blog"
-import Navbar from  "./routes/Navbar"
 import Contact from './routes/Contact'
 import Project from './routes/Project'
+import Skills from './routes/Skills'
+import Timelines from './routes/Timelines'
+
 
 
 const App = () => {
@@ -19,6 +21,8 @@ const App = () => {
             <Route  exact path="blog" element={<Blog />} />
             <Route exact path="project" element={<Project />} />
             <Route path="about" element={<About />} />
+            <Route path="timelines" element={<Timelines />} />
+            <Route path="skills" element={<Skills />} />
             {/* </Route> */}
         </Routes>
       </BrowserRouter>
