@@ -11,6 +11,7 @@ const Form = () => {
   
   return (
     <div className="form">
+      <h1 style={{textAlign:'center', fontSize:"3rem",padding:"1rem 1rem"}}>Contact</h1>
         <form onSubmit={handleSubmit}>
             <label htmlFor="">Your Name</label>
             <input type="text" />

@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter, Route, Routes} from "react-router-dom";
+import { BrowserRouter, Route, Routes,Navigate} from "react-router-dom";
 import Home from "./routes/Home"
 import About from "./routes/About"
 import Blog from "./routes/Blog"
@@ -23,7 +23,8 @@ const App = () => {
             <Route path="about" element={<About />} />
             <Route path="timelines" element={<Timelines />} />
             <Route path="skills" element={<Skills />} />
-            {/* </Route> */}
+            <Route path="*" element={<Navigate to="/"/>} />
+           
         </Routes>
       </BrowserRouter>
     </>

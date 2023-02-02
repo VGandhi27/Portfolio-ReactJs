@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import Footer from '../components/Footer'
 import HeroImg2 from '../components/HeroImg2'
+import Timelines1 from '../components/Timelines'
 
 
 const Timelines = () => {
@@ -9,7 +10,8 @@ const Timelines = () => {
     <>
     <Navbar/>
     <HeroImg2 heading="Timelines." 
-    text="I'm a friendly software engineer"/>
+    text="All my academic and professional experience with some milestones achieved are summed up here:"/>
+    <Timelines1/>
     
     <Footer/></>
   

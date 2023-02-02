@@ -4,6 +4,9 @@ import HeroImg from '../components/HeroImg'
 import Footer from '../components/Footer'
 import About from '../components/Aboutcontent'
 import Contact from '../components/Form'
+import Skill from '../components/Skills'
+import ToolsUsed from '../components/ToolsUsed'
+
 // import Project from '../components/Work'
 // import Blog from '../components/Blog'
 
@@ -14,6 +17,9 @@ const Home = () => {
       <Navbar/>
       <HeroImg/>
       <About/>
+      <Skill/>
+    <ToolsUsed/>
+      
       {/* <Project/>
       <Blog/> */}
       <Contact/>

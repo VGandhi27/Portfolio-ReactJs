@@ -1,0 +1,43 @@
+.cards-container{
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap:40px;
+}
+.cards{
+    border: 1px solid #eee;
+    color: rgb(51, 50, 50);
+    text-align: center;
+    padding: 1rem;
+}
+
+.cards:hover{
+    background-color: #141414;
+}
+
+.heading h1{
+    text-align: center;
+    margin: 1rem 1rem;
+    padding: 1rem 1rem;
+    margin-top: 3rem;
+    font-size: 4rem;
+}
+.calendar{
+    color: #eee;
+    margin: 1rem 1rem;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+
+@media screen and (max-width:740px) {
+    .cards-container{
+        max-width: 90%;
+        margin: auto;
+        grid-template-columns:  repeat(2, 1fr);
+        
+    }
+    
+}

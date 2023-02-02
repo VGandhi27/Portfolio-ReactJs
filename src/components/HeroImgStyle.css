@@ -14,7 +14,7 @@
 
 .mask::after{
     content: "";
-    width:100%;
+    width:100%; 
     height:120%;
     position:absolute;
     top: 0;
@@ -30,7 +30,7 @@
 
 .hero .content{
     height:absolute;
-    transform: translate(0,-240%);
+    transform: translate(0,-120%);
     top:50%;
     left:50%;
     text-align: center;
@@ -52,10 +52,10 @@
     margin: 1rem 0.2rem;
 
 }
-
-Link{
+/* 
+.himg Link{
     max-width: fit-content;
-}
+} */
 
 .btn {
     padding: 12px 32px;

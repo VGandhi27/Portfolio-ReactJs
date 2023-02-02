@@ -20,7 +20,7 @@
 .nav-menu li{
     padding:0 1rem;
 }
-.nav-menu li a{
+.nav-menu li Link{
     font-size: 1.2rem;
     font-weight:500;
 } 

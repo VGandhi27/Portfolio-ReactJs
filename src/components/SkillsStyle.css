@@ -1,0 +1,63 @@
+.heading{
+ padding: 1rem 1rem;
+}
+
+.heading h1,h3,h2{
+    color: #fff ;
+    text-align: center;
+    margin: 1rem 0.5rem;
+}
+.heading p {
+    font-size: 20px;
+}
+
+.progress-bar{
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap:40px;
+    padding-bottom: 5rem;
+}
+
+
+ .bar {
+    background-color: #fff;
+    width: 70%;
+    border-radius: 15px;
+}
+
+ .skill {
+    background-color: #c084f5;
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 15px;
+}
+
+.html {
+    width: 90%;
+}
+
+.css {
+    width: 90%;
+}
+.javascript {
+    width: 80%;
+}
+.reactjs {
+    width: 80%;
+}
+.c {
+    width: 90%;
+}
+.java {
+    width: 90%;
+}
+.python {
+    width: 70%;
+}
+.ui {
+    width: 60%;
+}
