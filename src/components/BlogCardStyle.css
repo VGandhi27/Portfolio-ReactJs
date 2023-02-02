@@ -16,6 +16,12 @@
     background: #1a1919;
     padding: 1.2rem 1rem;
 }
+.project-card:hover{
+    background-color: #2e1e86;
+    grid-gap:20px;
+    max-width:100%;
+}
+
 
 .project-card img{
     width: 100%;

@@ -6,7 +6,7 @@
     grid-gap:40px;
 }
 .cards{
-    border: 1px solid #eee;
+    border: 1px solid rgb(194, 185, 185);
     color: rgb(51, 50, 50);
     text-align: center;
     padding: 1rem;

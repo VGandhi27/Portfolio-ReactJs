@@ -40,9 +40,9 @@ const Footer = () => {
         <p>Feel free to ping me for volunteering, discussing your ideas or grabbing a cup of coffee.</p>
         <div className="social">
 
-       <Link to="https://github.com/VGandhi27"></Link> <FaGithub size={30} style={{color:'#fff',margin:'2rem'}}/>
-
-       <Link to="https://www.linkedin.com/in/vidushi-gandhi27/"></Link><FaLinkedin size={30} style={{color:'#fff',margin:'2rem'}}/>
+       <a href="https://github.com/VGandhi27"><FaGithub size={30} style={{color:'#fff',margin:'2rem'}}/>
+</a> 
+       <a href="https://www.linkedin.com/in/vidushi-gandhi27/"><FaLinkedin size={30} style={{color:'#fff',margin:'2rem'}}/></a>
 
 
         </div>

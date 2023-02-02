@@ -3,7 +3,7 @@ import Typewriter from "typewriter-effect";
 import Type from "./Type"
 import React from 'react'
 import {Link} from 'react-router-dom'
-
+import cv from '../assets/Vidushi Gandhi CV.pdf'
 const Heroimg = () => {
   return (
     <div className="hero">
@@ -12,23 +12,15 @@ const Heroimg = () => {
         <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"   className="into-img" />
           </div>
        <div className="content">
-       <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "}
-                <span className="wave" role="img" aria-labelledby="wave">
-                  👋🏻
-                </span>
-              </h1>
-
-              <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> Vidushi Gandhi</strong>
-              </h1>
-              <h2 style={{ padding: 70, textAlign: "center" }}>
-                <Type />
-              </h2>
+       <p >
+                Hi There!👋🏻 I'M
+                  </p>
+                  <h1> <strong > Vidushi Gandhi</strong></h1>
+         <h3 >
+               I'm a <Type />
+              </h3>
       <div className="himg">
-       {/* <Link to="/project" className="btn">Projects</Link>
-       <Link to="/contact" className="btn btn-light">Contact</Link> */}
+       <a href={cv} className="btn">Download CV</a>
        </div>
        </div>
     </div>

@@ -21,31 +21,31 @@ const ToolsUsed = () => {
    <div className="cards">
             <DiNodejs size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div>
-        <div className="card">
+        <div className="cards">
             <GrReactjs size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div>
-        <div className="card">
+        <div className="cards">
             <DiJava size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div>
-        <div className="card">
+        <div className="cards">
             <DiJavascript1 size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div>
-        <div className="card">
+        <div className="cards">
             <DiPython size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div>  
-        <div className="card">
+        <div className="cards">
             <DiMysql size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
-        <div className="card">
+        <div className="cards">
             <DiMongodb size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
-        <div className="card">
+        <div className="cards">
             <FaGitAlt size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
-        <div className="card">
+        <div className="cards">
             <SiRedux size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
-        <div className="card">
+        <div className="cards">
             <SiFirebase size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
           
@@ -55,19 +55,19 @@ const ToolsUsed = () => {
     <h1>Tools Used</h1>
     </div>
     <div className="cards-container">
-    <div className="card">
+    <div className="cards">
             <DiVisualstudio size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
-        <div className="card">
+        <div className="cards">
             <SiPostman size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
-        <div className="card">
+        <div className="cards">
             <DiHeroku size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
-        <div className="card">
+        <div className="cards">
             <IoLogoTux size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
-        <div className="card">
+        <div className="cards">
             <IoLogoVercel size={100} style={{color:'#fff',margin:'2rem'}}/>           
         </div> 
     </div>
