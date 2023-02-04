@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import HeroImg from '../components/HeroImg'
 import Footer from '../components/Footer'
-import About from '../components/Aboutcontent'
+import Brief from '../components/Brief_Intro'
 import Contact from '../components/Form'
 import Skill from '../components/Skills'
 import ToolsUsed from '../components/ToolsUsed'
@@ -16,7 +16,7 @@ const Home = () => {
       <h1>
       <Navbar/>
       <HeroImg/>
-      <About/>
+      <Brief/>
       <Skill/>
     <ToolsUsed/>
       

@@ -4,7 +4,7 @@ import React, { useState } from 'react'
 import {Link,Outlet} from 'react-router-dom'
 
 import { FaBars ,FaTimes} from 'react-icons/fa'
-import Toggle from "./toggle"
+// import Toggle from "./toggle"
 
 const Navbar = () => {
 
@@ -51,7 +51,7 @@ const Navbar = () => {
           <Link to="/contact">Contact </Link>
           </li>
         </ul>
-        <Toggle/>
+      
         <div className="hamburger" onClick={handleClick}>
           {click ?(<FaTimes size={20} style={{color:"#fff"}} />
           ):(<FaBars size={20} style={{color:"#fff"}} />)

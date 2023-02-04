@@ -32,7 +32,7 @@
     display: flex;
 }
 
-@media screen and (max-width:740px) {
+@media (max-width:767px) {
     .cards-container{
         max-width: 90%;
         margin: auto;
@@ -41,3 +41,4 @@
     }
     
 }
+

@@ -1,6 +1,6 @@
 import './FooterStyle.css'
 import React from 'react'
-import {FaHome,FaPhone,FaMailBulk, FaTwitter,FaFacebook,FaLinkedin,FaInstagram,FaHeart, FaGithub} from 'react-icons/fa'
+import {FaHome,FaPhone,FaMailBulk, FaYoutube,FaLinkedin,FaInstagram,FaHeart, FaGithub} from 'react-icons/fa'
 import {Link} from 'react-router-dom'
 const Footer = () => {
   return (
@@ -44,13 +44,14 @@ const Footer = () => {
 </a> 
        <a href="https://www.linkedin.com/in/vidushi-gandhi27/"><FaLinkedin size={30} style={{color:'#fff',margin:'2rem'}}/></a>
 
+       <a href="https://www.youtube.com/@vidushigandhi27/featured"><FaYoutube size={30} style={{color:'#fff',margin:'2rem'}}/></a>
 
         </div>
         </div>
         
      </div>
-     <center style={{color:"#fff"}}>
-            Made with <FaHeart size={30} style={{color:'red',margin:'0rem'}}/> Vidushi Gandhi
+     <center style={{color:"#fff" }}>
+          <h2>Made with <FaHeart size={30} style={{color:'red',margin:'0rem'}}/> Vidushi Gandhi</h2>  
         </center>
     </div>
   )
