@@ -51,8 +51,8 @@ const Footer = () => {
         
      </div>
      <center style={{color:"#fff" }}>
-          <h2>Made with <FaHeart size={30} style={{color:'red',margin:'0rem'}}/> Vidushi Gandhi</h2>  
-        </center>
+          <h2 className='foot'>Made with <FaHeart size={25} style={{color:'red',margin:'0rem'}} className="heart"/> Vidushi Gandhi</h2>  
+        </center> 
     </div>
   )
 }

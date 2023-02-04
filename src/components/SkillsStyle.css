@@ -28,7 +28,7 @@
 }
 
  .skill {
-    background-color: #c084f5;
+    background-color: #c084f5; 
     color: white;
     padding: 1%;
     text-align: right;
@@ -60,4 +60,21 @@
 }
 .ui {
     width: 60%;
+}
+.heading h1{
+   font-size: 4rem;
+}
+
+@media screen and (max-width:740px){
+    .heading h3,h2{
+        font-size: 2rem;
+    }
+    .heading h1{
+        font-size: 3rem;
+    }
+    .bar {
+        background-color: #fff;
+        width: 90%;
+        border-radius: 15px;
+    }
 }

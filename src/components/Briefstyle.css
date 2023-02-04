@@ -113,4 +113,12 @@ button .toeng {
         display: none;
     
     }
+    .brief .left p{
+        font-size: 1.5rem;
+       
+    }
+    .brief .left h1{
+        font-size: 3rem;
+    }
+
 }
