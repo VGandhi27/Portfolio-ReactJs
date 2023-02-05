@@ -75,7 +75,7 @@ const ToolsUsed = () => {
     <div className="heading">
     <h1> Days I Code</h1>
     </div>
-    <div class="calendar">
+    <div className="calendar">
       
       <GitHubCalendar
         username="vgandhi27"

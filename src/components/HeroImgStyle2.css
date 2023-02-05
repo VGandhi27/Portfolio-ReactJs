@@ -11,6 +11,7 @@
     background-position: center top;
     height: 100%;
     width: 100%;
+    min-width: 500px;
     position: absolute;
     top: 0;
     left: 0;

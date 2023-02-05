@@ -23,8 +23,8 @@ const Aboutcontent = () => {
        
         <h3>LIFE PHILOSOPHY</h3>
         <button>
-          <span class="translate">Aut inveniam viam aut faciam</span>
-          <span class="toeng"> I shall either find a way or make one</span>
+          <span className="translate">Aut inveniam viam aut faciam</span>
+          <span className="toeng"> I shall either find a way or make one</span>
         </button>
         <div className="left-img">
           <img

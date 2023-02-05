@@ -1,5 +1,5 @@
 .brief{
-    width:100%;
+    width:90%;
     margin: 3rem 0;
     display: flex;
     align-items: center;
@@ -13,7 +13,7 @@
     text-align: left;
     margin: auto;
     padding: 0.5rem;
-    max-width: 750px;
+    max-width: 550px;
 }
 
 .brief .left p{
