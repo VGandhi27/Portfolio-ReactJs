@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+[![Website](https://img.shields.io/badge/Website-Up-brightgreen)](https://vidushigandhi.vercel.app/) 
+[![HitCount](http://hits.dwyl.com/VGandhi27/Portfolio-ReactJs.svg)](http://hits.dwyl.com/VGandhi27/Portfolio-ReactJs)
+[![GitHub forks](https://img.shields.io/github/forks/VGandhi27/Portfolio-ReactJs?label=Forks)](https://github.com/VGandhi27/Portfolio-ReactJs/network)                                                                                                                                           [![GitHub stars](https://img.shields.io/github/stars/VGandhi27/Portfolio-ReactJs?label=Stars)](https://github.com/VGandhi27/Portfolio-ReactJs/stargazers)                                                                                                                                                       [![GitHub license](https://img.shields.io/github/license/VGandhi27/Portfolio-ReactJs?color=red)]                                                                                                                                                                       [![contributors](https://img.shields.io/badge/contributors-1-orange)](https://img.shields.io/badge/contributors-1-orange) 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Hello Everyone!  <img src="https://user-images.githubusercontent.com/34706326/87240698-80b8dc00-c439-11ea-886c-747fb2f74952.gif" align = left width="60" height="60"> <img src="https://user-images.githubusercontent.com/34706326/87228193-1febbe00-c3bd-11ea-9e73-7b094fda02b2.png" align=right width="450" height="320">
 
-## Available Scripts
+I am **Vidushi Gandhi**, an undergraduate student at Echelon Institute of Technology,Faridabad doing major in Computer Science Engineering with huge passion for building Web Apps, working on backend stuff and exploring the future of Cloud. \
+_You can find more about me [here](https://vidushigandhi.vercel.app/)_
 
-In the project directory, you can run:
+## Sections 📚
+✔️ [Home](https://vidushigandhi.vercel.app/)\
+✔️ [About](https://vidushigandhi.vercel.app/about)\
+✔️ [Skills](https://vidushigandhi.vercel.app/skills)\
+✔️ [Projects](https://vidushigandhi.vercel.app/project)\
+✔️ [Blogs](https://vidushigandhi.vercel.app/blog)\
+✔️ [Contact](https://vidushigandhi.vercel.app/contact)
 
-### `npm start`
+## License 📄
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This project is licensed under the MIT License - checkout the [LICENSE](./LICENSE) file for details
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Future Plans 👷
+Feel free to contribute by making a [pull request](https://github.com/VGandhi27/Portfolio-ReactJs/tree/master).
 
-### `npm test`
+- Add podcast feature
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Add light and dark mode option
 
-### `npm run build`
+- Add timeline
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Contact 📞 
+Feel free to ping me for volunteering, discussing your ideas or grabbing a cup of coffee.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+&nbsp; [![Linkedin Badge](https://img.shields.io/badge/-vidushi_gandhi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vidushi-gandhi27/)  <a href="https://www.instagram.com/vgandhi72/"><img src="https://img.shields.io/badge/-@vgandhi72-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-### `npm run eject`
+### Show some ❤️ by starring this repository!
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
