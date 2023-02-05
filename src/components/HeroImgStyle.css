@@ -1,20 +1,24 @@
 .hero1-img{
     width:100%;
     background: rgba(0, 0, 0, 0.5);
-    height: 95vh;
+    height: 100vh;
     min-height: 500px;
+    background-size: cover;
     position: relative;
 }
 .hero1-img::before{
+   
     content:"" ;
     /* background: url("../assets/hero.jpg"); */
-    background: url("https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif");
-    background-size: cover;
+    background: url("https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif") no-repeat center ;
+    /* background-size: cover; */
     background-position: center top;
-    height: 100%;
+    height: 100vh;
     width: 100%;
     min-height: 500px;
+    background-size: cover;
     position: absolute;
+    min-width: inherit;
     top: 0;
     left: 0;
     opacity: 0.7;
@@ -71,7 +75,7 @@
         font-size: 2rem;
        
     }
-
+/* 
     @media screen and (min-height:700) and (orientation: landscape){
         .hero1-img{
               height: 110vh;
@@ -83,7 +87,7 @@
         p{
             display: none;
         }
-    } 
+    }  */
     
     
     
