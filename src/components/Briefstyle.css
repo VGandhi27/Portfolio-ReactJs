@@ -6,8 +6,10 @@
     justify-content: center;
     flex-wrap: wrap;
     height: 100%;
+   
+    /* background-color: rgb(10, 139, 64); */
 
-}
+}  
 
 .brief .left{
     text-align: left;
@@ -17,8 +19,9 @@
 }
 
 .brief .left p{
-    font-size: 2rem;
+    font-size: 1.6rem;
     margin: 0.8rem 0;
+    color: #00203fff;
 }
 .brief .left ul li{
 
@@ -114,7 +117,7 @@ button .toeng {
     
     }
     .brief .left p{
-        font-size: 1.5rem;
+        font-size: 1.2rem;
        
     }
     .brief .left h1{

@@ -4,6 +4,7 @@ label{
 }
 .form{
     margin-top: 10%;
+   
 }
 form{
     display: flex;
@@ -22,6 +23,9 @@ form input,form textarea{
     border-color: rgba(255, 255, 255, 0.1);
     color: #f4f4f4;
 
+}
+form label{
+    color: #00203fff;
 }
 .resdiv{
     padding: 3rem 4rem;

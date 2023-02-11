@@ -1,14 +1,17 @@
-.heading{
+.headings{
  padding: 1rem 1rem;
+ background-color:#00203fff;
 }
 
-.heading h1,h3,h2{
-    color: #fff ;
+.headings h1,h3,h2{
+    color:  #f0cc89 ;
     text-align: center;
     margin: 1rem 0.5rem;
 }
-.heading p {
+.headings p {
     font-size: 20px;
+    text-align: center;
+    color:  #f0cc89;
 }
 
 .progress-bar{
@@ -61,15 +64,15 @@
 .ui {
     width: 60%;
 }
-.heading h1{
+.headings h1{
    font-size: 4rem;
 }
 
 @media screen and (max-width:740px){
-    .heading h3,h2{
+    .headings h3,h2{
         font-size: 2rem;
     }
-    .heading h1{
+    .headings h1{
         font-size: 3rem;
     }
     .bar {

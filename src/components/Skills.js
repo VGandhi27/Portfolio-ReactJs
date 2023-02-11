@@ -6,7 +6,7 @@ const Skills = () => {
   return (
 
   <>
-  <div className="heading">
+  <div className="headings">
     <h1>Skills</h1>
      <h2>Technical Expertise</h2>
      <h3>Always ready to try hands-on new and emerging technologies</h3>
