@@ -11,12 +11,7 @@ const Aboutcontent = () => {
            Hi Everyone, I am Vidushi Gandhi from Faridabad, India. </p>
 <p> I am a undergrad pursuing Computing in Echelon Institute of Technology.</p>
 
-<p>Apart from coding, some other activities that I love to do!</p>
-<ul typeof="dots">
-  <li>Watching KDrama</li>
-  <li>Writing Tech Blogs</li>
-  <li>Travelling</li>
-</ul>
+<p>I'm an ambitious, enthusiastic, skilled, and consistent person. I have almost 5 years of experience in development. I have worked on Android, web, and desktop technologies. My area of expertise includes Artificial Intelligence, Neural Networks and Natural Language Processing. Currently exploring Augmented Reality and Virtual Reality. I am working as a Google Developer Student Clubs Technical Lead, Freelance FullStack Developer and GitHub Developer Program Member.I'm an ambitious, enthusiastic, skilled, and consistent person. I have almost 5 years of experience!</p>
 
  
  
@@ -33,7 +28,7 @@ const Aboutcontent = () => {
             width="30%"
             height="50%"
           />
-          <h3>Google DSC Member</h3>
+          <h3>Google DSC Technical Lead</h3>
         </div>
       </div>
       {/* <div className="right">

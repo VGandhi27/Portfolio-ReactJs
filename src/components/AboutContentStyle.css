@@ -8,7 +8,12 @@
     height: 100%;
 
 }
-
+.keypoints h4{
+    text-align: left;
+    margin: auto;
+    font-size:larger;
+    font-family: 'Courier New', Courier, monospace;    
+}
 .about .left{
     text-align: left;
     margin: auto;
