@@ -3,7 +3,7 @@ import Typewriter from "typewriter-effect";
 import Type from "./Type"
 import React from 'react'
 import {Link} from 'react-router-dom'
-import cv from '../assets/Vidushi Gandhi CV.pdf'
+import cv from '../assets/Vidushi_Gandhi_CV.pdf'
 
 const Heroimg = () => {
   return (

@@ -1,7 +1,8 @@
 import './FooterStyle.css'
 import React from 'react'
 import {FaHome,FaPhone,FaMailBulk, FaYoutube,FaLinkedin,FaInstagram,FaHeart, FaGithub} from 'react-icons/fa'
-import {Link} from 'react-router-dom'
+import { SiHashnode,SiLinktree  } from "react-icons/si";
+
 const Footer = () => {
   return (
     <div className='footer'>
@@ -19,7 +20,7 @@ const Footer = () => {
             </div>
             <div className="phone">
                 <h4>
-                <FaPhone size={20} style={{color:'#fff',margin:'2rem'}}/> +919315865887
+                <FaPhone size={30} style={{color:'#fff',margin:'2rem'}}/> +919315865887
             
                 </h4>
             
@@ -40,11 +41,13 @@ const Footer = () => {
         <p>Feel free to ping me for volunteering, discussing your ideas or grabbing a cup of coffee.</p>
         <div className="social">
 
-       <a href="https://github.com/VGandhi27"><FaGithub size={30} style={{color:'#fff',margin:'2rem'}}/>
-</a> 
-       <a href="https://www.linkedin.com/in/vidushi-gandhi27/"><FaLinkedin size={30} style={{color:'#fff',margin:'2rem'}}/></a>
+       <a href="https://github.com/VGandhi27"><FaGithub size={30} style={{color:'#fff',margin:'1.5rem'}}/></a> 
+       <a href="https://www.linkedin.com/in/vidushi-gandhi27/"><FaLinkedin size={30} style={{color:'#fff',margin:'1.5rem'}}/></a>
 
-       <a href="https://www.youtube.com/@vidushigandhi27/featured"><FaYoutube size={30} style={{color:'#fff',margin:'2rem'}}/></a>
+       <a href="https://www.youtube.com/@spanningtreee"><FaYoutube size={30} style={{color:'#fff',margin:'1.5rem'}}/></a>
+       <a href="https://www.instagram.com/vgandhi72/"><FaInstagram size={30} style={{color:'#fff',margin:'1.5rem'}}/></a>
+       <a href="https://www.instagram.com/vgandhi72/"><SiHashnode size={30} style={{color:'#fff',margin:'1.5rem'}}/></a>
+       <a href="https://linktr.ee/vidushigandhi"><SiLinktree size={30} style={{color:'#fff',margin:'1.5rem'}}/></a>
 
         </div>
         </div>
